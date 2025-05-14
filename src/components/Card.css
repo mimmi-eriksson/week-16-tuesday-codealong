@@ -1,0 +1,8 @@
+.card {
+  width: 300px;
+  background-color: bisque;
+  border: solid 1px black;
+  padding: 1rem;
+  margin: 1rem;
+  cursor: pointer;
+}
